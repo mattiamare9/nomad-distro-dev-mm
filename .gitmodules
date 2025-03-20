@@ -16,3 +16,6 @@
 [submodule "packages/nomad-plugin-mm"]
 	path = packages/nomad-plugin-mm
 	url = https://github.com/mattiamare9/nomad-plugin-mm.git
+[submodule "packages/Fabrication-utilities"]
+	path = packages/Fabrication-utilities
+	url = https://github.com/Trog-404/Fabrication-utilities.git
